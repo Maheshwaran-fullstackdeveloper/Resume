@@ -1,0 +1,10 @@
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    color: #000000;
+    background-color: cyan;
+}
+h1{
+    text-align: center;
+}

@@ -1,0 +1,6 @@
+<div class="gallery">
+    <a target="_blank" href="">
+      <img src="" alt="" width="600" height="400">
+    </a>
+    <div class="desc"></div>
+  </div>
